@@ -123,3 +123,29 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Your Name - [@akproprettyboi](https://github.com/akproprettyboi)
 
 Project Link: [https://github.com/akproprettyboi/image_captioning](https://github.com/akproprettyboi/image_captioning)
+
+## GitHub Workflow
+
+To make changes to the project, follow these steps:
+
+1. Pull any changes from GitHub:
+```bash
+git pull origin master
+```
+
+2. Make your changes to the code.
+
+3. Add changed files:
+```bash
+git add .
+```
+
+4. Commit changes:
+```bash
+git commit -m "Description of your changes"
+```
+
+5. Push to GitHub:
+```bash
+git push origin master
+```
